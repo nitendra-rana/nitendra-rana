@@ -48,8 +48,8 @@
 ### Connect with me:
 
 
-Linkedin:[linkedin]: https://www.linkedin.com/in/nitendra-rana-904685237/
-Website:[website]: https://nitendra-rana.github.io/nitendrarana/
-Instagram:[instagram]: https://www.instagram.com/the_unexplored_edge/
-E-mail:[mail]: nitendra.ece17@nituk.ac.in
+[Linkedin](https://www.linkedin.com/in/nitendra-rana-904685237/)
+[Website]: (https://nitendra-rana.github.io/nitendrarana/)
+[Instagram]: (https://www.instagram.com/the_unexplored_edge/)
+[E-mail]: (nitendra.ece17@nituk.ac.in)
 
