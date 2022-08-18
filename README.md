@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitendra Rana</h1>
+<h1 align="center">Namste 🙏, I'm Nitendra Rana</h1>
 <h3 align="center">"A passionate frontend developer"</h3>
 
 <br>
@@ -47,12 +47,5 @@
 
 ### Connect with me:
 
-
--[Linkedin](https://www.linkedin.com/in/nitendra-rana-904685237/)
-@nbsp
--[Website](https://nitendra-rana.github.io/nitendrarana/)
-@nbsp
--[Instagram](https://www.instagram.com/the_unexplored_edge/)
-@nbsp
--[E-mail](nitendra.ece17@nituk.ac.in)
+[Linkedin](https://www.linkedin.com/in/nitendra-rana-904685237/)--------[Website](https://nitendra-rana.github.io/nitendrarana/)--------[Instagram](https://www.instagram.com/the_unexplored_edge/)--------[E-mail](nitendra.ece17@nituk.ac.in)
 
