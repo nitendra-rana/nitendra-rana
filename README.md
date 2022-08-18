@@ -46,9 +46,10 @@
   
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/nitendra-rana-904685237/
-[twitter]: https://twitter.com/om_raj_sharma
-[website]: https://nitendra-rana.github.io/nitendrarana/
-[instagram]: https://www.instagram.com/the_unexplored_edge/
-[mail]: nitendra.ece17@nituk.ac.in
+
+
+Linkedin:[linkedin]: https://www.linkedin.com/in/nitendra-rana-904685237/
+Website:[website]: https://nitendra-rana.github.io/nitendrarana/
+Instagram:[instagram]: https://www.instagram.com/the_unexplored_edge/
+E-mail:[mail]: nitendra.ece17@nituk.ac.in
 
