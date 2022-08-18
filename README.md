@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript and React**
 
-- 👨‍💻 All of my projects are available at [HERE](https://github.com/nitendra-rana)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/nitendra-rana?tab=repositories)
 
 - 📫 Reach out to me at **nitendra.ece17@nituk.ac.in** 
 
