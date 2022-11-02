@@ -46,6 +46,11 @@
   
 
 ### Connect with me:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chic-fox-46ea64.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitendra-rana-904685237/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_Nitendra)
 
-[Linkedin](https://www.linkedin.com/in/nitendra-rana-904685237/)--------[Website](https://nitendra-rana.github.io/nitendrarana/)--------[Instagram](https://www.instagram.com/the_unexplored_edge/)--------[E-mail](nitendra.ece17@nituk.ac.in)
+
+If you have any feedback, please reach out to me at nitendra.ece17@nituk.ac.in
+
 
