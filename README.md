@@ -11,7 +11,7 @@
 
 - 💬 Programming Languages: **JavaScript, TypeScript**
   
--  💬 Familiar with Programming Languages: **Java, Python, django**
+-  💬 Familiar with: **Java, Python, django**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/nitendra-rana?tab=repositories)
 
