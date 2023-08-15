@@ -1,5 +1,5 @@
 <h1 align="center">Namste 🙏, I'm Nitendra Rana</h1>
-<h3 align="center">"A passionate frontend developer"</h3>
+<h3 align="center">"Cross-Platform Developer with Full-Stack Expertise"</h3>
 
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrajsharma&label=Profile%20views&color=0e75b6&style=flat" alt="omrajsharma" /> </p> -->
@@ -7,15 +7,17 @@
 <!-- <img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%"> -->
 
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 My Tech stack includes **React, React-native, Nest-JS, Angular, NestJS, Node.js, MongoDB, HTML-CSS...**
 
-- 💬 Ask me about **JavaScript and React**
+- 💬 Programming Languages: **JavaScript, TypeScript**
+  
+-  💬 Familiar with Programming Languages: **Java, Python, django**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/nitendra-rana?tab=repositories)
 
 - 📫 Reach out to me at **nitendra.ece17@nituk.ac.in** 
 
-- ⚡ Fun fact **I can motivate anyone**
+- ⚡ Fun fact : **it's not the age of the fish that makes it big, it's the specific species.**
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
