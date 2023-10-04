@@ -28,15 +28,22 @@
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=5ed3f3)
+  ![React-Native](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=5ed3f3)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=5ed3f3)
+   ![NextJS](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=Next&logoColor=5ed3f3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=dddddd)
+  ![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=NestJS&logoColor=dddddd)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![scss](https://img.shields.io/badge/-Sass-333333?style=flat&logo=SASS&logoColor=563D7C)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCss&logoColor=563D7C)
   
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -45,6 +52,7 @@
 - 🔧 &nbsp;
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode)
+  ![Studio3T](https://img.shields.io/badge/-Studio3T-333333?style=flat&logo=Studio3T)
  
   
 
@@ -54,6 +62,6 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_Nitendra)
 
 
-If you have any feedback, please reach out to me at nitendra.ece17@nituk.ac.in
+
 
 
