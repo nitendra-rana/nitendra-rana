@@ -1,4 +1,6 @@
-<h1 align="center">Namaste 🙏, I'm Nitendra Rana</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=100&duration=4000&lines=Namste+Friends!+%F0%9F%99%8F;+I%27m+Nitendra+Rana+%F0%9F%98%8A!;"/>
+</h1>
 <h3 align="center">"Cross-Platform Developer with Full-Stack Expertise"</h3>
 
 <br>
@@ -6,7 +8,7 @@
 
 <!-- <img src="https://img.freepik.com/free-vector/kids-online-lessons-concept_23-2148520727.jpg?size=626&ext=jpg&ga=GA1.2.1788868677.1610950550" alt="Omraj Sharma" align="right" width="50%"> -->
 
-
+<div align="center">
 - 🌱 My Tech stack includes **React, React-native, Nest-JS, Angular, NextJS, Node.js, MongoDB, HTML-CSS...**
 
 - 💬 Programming Languages: **JavaScript, TypeScript Java, Python**
@@ -17,10 +19,10 @@
 
 - 📫 Reach out to me at **nitendra.ece17@nituk.ac.in** 
 
-- ⚡ Fun fact : **It's not the age, that makes fish huge, it's the specific species. and I am not talking about fishes.**
+- ⚡ Fun fact : **Everyone like dark mode** </div>
+ 
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 - 💻 &nbsp;
 
@@ -54,13 +56,27 @@
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode)
   ![Studio3T](https://img.shields.io/badge/-Studio3T-333333?style=flat&logo=Studio3T)
  
-  
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nitendra-rana&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=nitendra-rana&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=nitendra-rana&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
+<br/><br/>
+<hr/>
 ### Connect with me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chic-fox-46ea64.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitendra-rana-904685237/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_Nitendra)
 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+<hr/>
 
 
 
