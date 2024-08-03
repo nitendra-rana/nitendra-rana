@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/nitendra-rana?tab=repositories)
 
-- 📫 Reach out to me at **nitendra.ece17@nituk.ac.in** 
+- 📫 Reach out to me at **n** 
 
 - ⚡ Fun fact : **Everyone like dark mode** </div>
  
@@ -66,10 +66,10 @@
 
 <br/><br/>
 <hr/>
-### Connect with me:
+<!-- ### Connect with me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chic-fox-46ea64.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitendra-rana-904685237/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_Nitendra)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rana_Nitendra) -->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
